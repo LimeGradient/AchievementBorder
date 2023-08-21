@@ -1,0 +1,4 @@
+name: AchievementBorder
+version: '${project.version}'
+main: xyz.limegradient.achievementborder.AchievementBorder
+api-version: '1.20'
